@@ -7,7 +7,7 @@
 </p>
 
 ## About
-We are a team of University students from NTNU Gjøvik focused on building 
+We are a team of University students from NTNU Gjøvik focused on building strategic military simulations.
 
 ## Projects
 ### Operation Command (Working Title) (Pre-Alpha)
