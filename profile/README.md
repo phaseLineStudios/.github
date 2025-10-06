@@ -32,3 +32,12 @@ We welcome contributors! Start here by sending an email to [Eirik](mailto:eirik@
 © 2025 Fieldcraft Studios. All rights reserved.
 
 Project assets and code are licensed per repository. Where specified, we use [CC BY‑NC‑SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) for non‑commercial sharing.
+
+## Credits
+Thanks to our contributors and playtesters.
+
+### Core members
+- [Eirik](https://github.com/Tapawingo) (Team leader)
+- [Gian](https://github.com/GianRathgeb) (Developer)
+- [Daniel](https://github.com/DreckigsterDan) (Developer)
+- [Tobias](https://github.com/tobelobb) (Developer)
