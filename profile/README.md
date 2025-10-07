@@ -21,12 +21,12 @@ We are a team of University students from NTNU Gjøvik focused on building strat
 - **Tooling matters**: If a task repeats, we automate it.
 
 ## Contributing
-We welcome contributors! Start here by sending an email to [Eirik @Tapawingo](mailto:tapawingo.actual@pm.me) to gain repo access.
+We welcome contributors! Start here by sending an email to [Eirik](mailto:tapawingo.actual@pm.me) to gain repo access.
 
 >Code style: [Godot 4.5 GDScript Style](https://docs.godotengine.org/en/4.5/tutorials/scripting/gdscript/gdscript_styleguide.html) · [Godot 4.5 GDScript Documentation Comments](https://docs.godotengine.org/en/4.4/tutorials/scripting/gdscript/gdscript_documentation_comments.html)
 
 ## Contact
-- **General Inquiries**: [eirik@dalseggteppen.no](mailto:eirik@dalseggteppen.no)
+- **General Inquiries**: [Eirik (@Tapawingo)](mailto:tapawingo.actual@proton.me)
 
 ## Legal
 © 2025 Phase Line Studios. All rights reserved.
