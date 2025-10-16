@@ -39,5 +39,4 @@ Thanks to our contributors and playtesters.
 ### Core members
 - [Eirik](https://github.com/Tapawingo) (Team leader)
 - [Gian](https://github.com/GianRathgeb) (Developer)
-- [Daniel](https://github.com/DreckigsterDan) (Developer)
 - [Tobias](https://github.com/tobelobb) (Developer)
