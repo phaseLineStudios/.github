@@ -40,3 +40,6 @@ Thanks to our contributors and playtesters.
 - [Eirik](https://github.com/Tapawingo) (Team leader)
 - [Gian](https://github.com/GianRathgeb) (Developer)
 - [Tobias](https://github.com/tobelobb) (Developer)
+
+### Contributors
+- [Daniel](https://github.com/DreckigsterDan) (Developer)
